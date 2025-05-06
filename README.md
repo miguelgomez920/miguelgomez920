@@ -1,6 +1,9 @@
 <!-- Saludo -->
 # ¡Hola! :wave::smiley:
 
+<h1 align="center"> ¡Hola! Soy Miguel Gomez</h1>
+<p align="center">💻 Desarrollador Fullstack | 🎓 Ingeniero de Sistemas | 🌎 Pereira, Colombia </p>
+
 <!--Introduccion -->
 Soy Miguel Ángel Gómez Fernández, estudiante de Ingeniería de Sistemas y Computación en la UTP. Me apasiona el desarrollo **fullstack**, crear soluciones que resuelvan problemas reales y aprender nuevas tecnologías de forma autodidacta.  
 Disfruto desarrollar proyectos prácticos, compartir conocimiento y seguir mejorando como desarrollador. Si te interesa algún proyecto, ¡un ⭐ siempre se agradece!
@@ -12,8 +15,8 @@ Disfruto desarrollar proyectos prácticos, compartir conocimiento y seguir mejor
 
 <!--Contactame -->
 # 📭 Contáctame:
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/juan-gomez-531788225/))
-- 📧 juanjosegomezfernandez114@email.com
+- 💼 [LinkedIn]()
+- 📧 gomezfernandezmiguel8@gmail.com
 
 <!--Estadisticas de GitHub -->
 # 📊 Estadistícas de GitHub:
