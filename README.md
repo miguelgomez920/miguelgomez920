@@ -1,5 +1,3 @@
-<!-- Saludo -->
-# ¡Hola! :wave::smiley:
 
 <h1 align="center"> ¡Hola! Soy Miguel Gomez</h1>
 <p align="center">💻 Desarrollador Fullstack | 🎓 Ingeniero de Sistemas | 🌎 Pereira, Colombia </p>
